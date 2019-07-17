@@ -36,17 +36,16 @@
 
 | web(jboss) | dubbo | 提供者服务 | 测试登录情况 |
 
-|-|-|-|
+|---|----|-----|---|
 
-start | start | 启用 | 成功
+| start | start | 启用 | 成功 |
 
-start | start | 禁用 | 成功
+| start | start | 禁用 | 成功 |
 
-stop | start | 禁用 | 通讯异常
+| stop | start | 禁用 | 通讯异常 |
 
-start | start | 禁用 | 失败
+| start | start | 禁用 | 失败 |
 
-start | start | 启用 | 立即成功
+| start | start | 启用 | 立即成功 |
 
-start | start | 禁用 | 仍然成功
-
+| start | start | 禁用 | 仍然成功 |
