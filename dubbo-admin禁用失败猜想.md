@@ -34,9 +34,9 @@
 
 测试情况如下：
 
-web(jboss) | dubbo | 提供者服务 | 测试登录情况  
+| web(jboss) | dubbo | 提供者服务 | 测试登录情况 |
 
--|-|-|-
+|-|-|-|
 
 start | start | 启用 | 成功
 
